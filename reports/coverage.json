@@ -1,0 +1,101 @@
+{
+  "coverage": {
+    "OptiSmartContract": {
+      "branches": {
+        "OptiSmartContract.complain": [
+          0,
+          0,
+          2
+        ],
+        "OptiSmartContract.transferMoney": [
+          0,
+          0,
+          1
+        ],
+        "OptiSmartContract.verifyKey": [
+          0,
+          0,
+          2
+        ]
+      },
+      "statements": {
+        "OptiSmartContract.transferMoney": [
+          0,
+          1
+        ],
+        "OptiSmartContract.verifyKey": [
+          0,
+          1
+        ]
+      },
+      "totals": {
+        "branches": [
+          0,
+          0,
+          5
+        ],
+        "statements": [
+          0,
+          2
+        ]
+      }
+    }
+  },
+  "highlights": {
+    "branches": {
+      "OptiSmartContract": {
+        "0": [
+          [
+            970,
+            984,
+            "red",
+            ""
+          ],
+          [
+            1003,
+            1013,
+            "red",
+            ""
+          ],
+          [
+            1126,
+            1141,
+            "red",
+            ""
+          ],
+          [
+            1264,
+            1290,
+            "red",
+            ""
+          ],
+          [
+            1294,
+            1308,
+            "red",
+            ""
+          ]
+        ]
+      }
+    },
+    "statements": {
+      "OptiSmartContract": {
+        "0": [
+          [
+            1118,
+            1164,
+            "red",
+            ""
+          ],
+          [
+            1324,
+            1347,
+            "red",
+            ""
+          ]
+        ]
+      }
+    }
+  },
+  "sha1": {}
+}

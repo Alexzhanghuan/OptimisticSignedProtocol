@@ -1,0 +1,22 @@
+{
+  "contracts": {
+    "OptiSmartContract": "87affab88f1f56eb624978646a39f32ab8dabe84"
+  },
+  "tests": {
+    "tests/test_verify_key.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "dd81a17cf86beb6efb92dc085a033c5da9200b85",
+      "txhash": []
+    },
+    "tests/test_verify_signature.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "F",
+      "sha1": "97ec84827cf5b31d7e4156bdfaf9e70e7e3de683",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
